@@ -36,7 +36,7 @@ sudo apt-get -y install \
   awscli \
   build-essential \
   python-software-properties \
-  apt-get -y install silversearcher-ag \
+  silversearcher-ag \
   vim
 
 # update default editor
